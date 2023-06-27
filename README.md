@@ -1,8 +1,6 @@
-# Fast API project
+# Fast API project made originally for a project in Instituto Politecnico de Braganca
 
-## To exercise 3 I have created a new module on modules folder
-
-## Install adn run
+## Install and run
 1. To run this project it's necessary use [pipenv](https://pipenv.pypa.io/en/latest/)
 
     ```
